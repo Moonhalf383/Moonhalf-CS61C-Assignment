@@ -1,9 +1,9 @@
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
+1. 在gdb会话中`set args [arg0] [arg1] ...`
+2. 空格键，或者break n
+3. F8，或者next
+4. F7，或者step
+5. F6，或者continue
+6. print var_name
+7. display var_name
+8. info locals
+9. q
