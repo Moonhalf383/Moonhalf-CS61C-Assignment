@@ -1,0 +1,6 @@
+[default_config]
+assembler = "gas"
+instruction_set = "riscv"
+[opts]
+diagnostics = false           # 关闭诊断：Venus 代码不通过 gcc/clang 编译
+default_diagnostics = false   # 关闭默认诊断
